@@ -1,2 +1,2 @@
-# g-ncel_konular
+# guncel_konular
 Güncel konular dersi için yapılmış proje
